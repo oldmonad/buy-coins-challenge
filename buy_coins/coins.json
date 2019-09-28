@@ -1,0 +1,20 @@
+[
+    {
+      "model": "calculate_price.coin",
+      "pk": 1,
+      "fields": {
+        "code": "BDP",
+        "rate_per_btc": 4,
+        "country": "Great Britain"
+      }
+    },
+    {
+        "model": "calculate_price.coin",
+        "pk": 2,
+        "fields": {
+          "code": "USD",
+          "rate_per_btc": 5,
+          "country": "United States"
+        }
+      }
+  ]
