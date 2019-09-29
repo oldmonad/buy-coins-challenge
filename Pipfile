@@ -9,6 +9,8 @@ flake8 = "*"
 [packages]
 graphene-django = "*"
 django-graphiql = "*"
+requests = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"

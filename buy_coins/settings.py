@@ -25,7 +25,7 @@ SECRET_KEY = 'a^r3c&r^ho7p5+f$t1ybz$=k$o=wd@3$u9%u&c7#p+mls-liy3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['buycoinapp.herokuapp.com']
 
 
 # Application definition
