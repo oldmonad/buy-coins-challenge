@@ -2,6 +2,7 @@ import requests
 from graphql import GraphQLError
 
 
+
 def request_coin_data():
     """
     Makes an GET request to retrieve the current prices of bitcoin

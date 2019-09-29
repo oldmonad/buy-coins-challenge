@@ -3,6 +3,12 @@ from graphql import GraphQLError
 
 
 def validate_input(input_number):
+    """
+        This method checks if a number is a float or integer
+        based on arguments passed
+        :param: input_number
+        :return: True or error message
+    """
 
     if isinstance(input_number, int) or isinstance(input_number, float):
         return True
